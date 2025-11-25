@@ -39,7 +39,7 @@ It allows users to generate strong passwords and securely store website login de
 5. Test error-handling by leaving fields empty and clicking **Add**.
 6. Test password generation multiple times to ensure randomness.
 
-## **Screenshots (Optional)**
+## **Screenshots**
 > You may add screenshots of:
 - The main interface
 
@@ -69,7 +69,7 @@ It allows users to generate strong passwords and securely store website login de
 
 
 
-  ![image_alt](
+  ![image_alt](https://github.com/aroncodes1101/Password-Generator/blob/6c1905fcd1dcca5e7b5571027e1bcdf2f52b8c4c/Screenshots/saved%20successfully.png)
 
 
 
