@@ -44,7 +44,7 @@ It allows users to generate strong passwords and securely store website login de
 - The main interface
 
 
-  ![image_alt](
+  ![image_alt](https://github.com/aroncodes1101/Password-Generator/blob/f432d1ae6bca40a42be4021db1e2bce5eac23907/Screenshots/Before%20Generation%20.png)
 
   
 
