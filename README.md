@@ -51,7 +51,9 @@ It allows users to generate strong passwords and securely store website login de
 
 
 -After Password Generation
- ![image_alt](
+
+
+ ![image_alt](https://github.com/aroncodes1101/Password-Generator/blob/d10eb9785813e6dddba89d2a3193c9b53b9de471/Screenshots/After%20Generation.png)
 
 
 
