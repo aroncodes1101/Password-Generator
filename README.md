@@ -23,10 +23,9 @@ It allows users to generate strong passwords and securely store website login de
 ## **Steps to Install & Run the Project**
 1. Install Python (version 3.7 or later).
 2. Save the Python script (`main.py`) on your computer.
-3. Make sure `logo.png` is removed if you're using the modified version.
-4. Open a terminal or command prompt.
-5. Navigate to the folder where the script is kept
-6. Run the program
+3. Open a terminal or command prompt.
+4. Navigate to the folder where the script is kept
+5. Run the program
    
 ## **Instructions for Testing**
 1. Run the program.
