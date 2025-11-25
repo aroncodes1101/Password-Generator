@@ -59,7 +59,9 @@ It allows users to generate strong passwords and securely store website login de
 
 
 -Confirmation
- ![image_alt](
+
+
+ ![image_alt](https://github.com/aroncodes1101/Password-Generator/blob/5586295435e10f1e3db4d14e5a45f48a56dfcb79/Screenshots/Confirmation.png)
 
 
 
