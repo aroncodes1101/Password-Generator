@@ -43,25 +43,27 @@ It allows users to generate strong passwords and securely store website login de
 > You may add screenshots of:
 - The main interface
 
+
+  ![image_alt](
+
   
 
- 
-Before Password Generation
+
+
+-After Password Generation
+ ![image_alt](
 
 
 
 
-After Password Generation
+-Confirmation
+ ![image_alt](
 
 
 
 
-Confirmation
-
-
-
-
-Saved Successfully
+-Saved Successfully
+ ![image_alt](
 
 
 
